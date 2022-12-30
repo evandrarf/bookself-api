@@ -1,0 +1,22 @@
+{
+  "name": "bookself-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^21.1.0",
+    "install": "^0.13.0",
+    "nanoid": "^4.0.0",
+    "npm": "^9.2.0"
+  }
+}
